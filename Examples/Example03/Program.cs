@@ -16,7 +16,7 @@ void PrintArray(int[] array)
 // метод для упорядочевания массива
 void SelectionSort(int[] array )
 {
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length - 1; i++)
     {
         int minPosition = i;
 
