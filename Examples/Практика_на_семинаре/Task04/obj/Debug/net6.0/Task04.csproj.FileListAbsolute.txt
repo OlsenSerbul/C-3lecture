@@ -1,0 +1,15 @@
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\Task04.csproj.AssemblyReference.cache
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\Task04.AssemblyInfoInputs.cache
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\Task04.AssemblyInfo.cs
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\Task04.csproj.CoreCompileInputs.cache
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\bin\Debug\net6.0\Task04.exe
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\bin\Debug\net6.0\Task04.deps.json
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\bin\Debug\net6.0\Task04.runtimeconfig.json
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\bin\Debug\net6.0\Task04.dll
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\bin\Debug\net6.0\Task04.pdb
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\Task04.dll
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\refint\Task04.dll
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\Task04.pdb
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\Task04.genruntimeconfig.cache
+C:\Users\SLF\Desktop\С#3\Examples\Практика_на_семинаре\Task04\obj\Debug\net6.0\ref\Task04.dll
