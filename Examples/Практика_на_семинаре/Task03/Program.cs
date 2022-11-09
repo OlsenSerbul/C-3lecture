@@ -3,7 +3,6 @@
 
 int FindSqr (int number)
 {
-    string newNumber = number.ToString();
     int sqr = 1;
     for (int i = 1; i <= number; i++)
     {
