@@ -1,7 +1,7 @@
 ﻿// Напишите программу, которая принимает на вход число (А)
 // и выдаёт сумму чисел от 1 до А.
 
-int FindSum(int number)
+int FindSum (int number)
 {
     int sum = 0;
 
